@@ -1,0 +1,1 @@
+- EsLint e suas configs para iniciar projeto (tem na doc do video)
